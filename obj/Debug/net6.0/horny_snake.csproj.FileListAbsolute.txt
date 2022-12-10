@@ -1,0 +1,15 @@
+/Users/pipiskop/Projects/horny_snake/horny_snake/bin/Debug/net6.0/horny_snake
+/Users/pipiskop/Projects/horny_snake/horny_snake/bin/Debug/net6.0/horny_snake.deps.json
+/Users/pipiskop/Projects/horny_snake/horny_snake/bin/Debug/net6.0/horny_snake.runtimeconfig.json
+/Users/pipiskop/Projects/horny_snake/horny_snake/bin/Debug/net6.0/horny_snake.dll
+/Users/pipiskop/Projects/horny_snake/horny_snake/bin/Debug/net6.0/horny_snake.pdb
+/Users/pipiskop/Projects/horny_snake/horny_snake/obj/Debug/net6.0/horny_snake.csproj.AssemblyReference.cache
+/Users/pipiskop/Projects/horny_snake/horny_snake/obj/Debug/net6.0/horny_snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pipiskop/Projects/horny_snake/horny_snake/obj/Debug/net6.0/horny_snake.AssemblyInfoInputs.cache
+/Users/pipiskop/Projects/horny_snake/horny_snake/obj/Debug/net6.0/horny_snake.AssemblyInfo.cs
+/Users/pipiskop/Projects/horny_snake/horny_snake/obj/Debug/net6.0/horny_snake.csproj.CoreCompileInputs.cache
+/Users/pipiskop/Projects/horny_snake/horny_snake/obj/Debug/net6.0/horny_snake.dll
+/Users/pipiskop/Projects/horny_snake/horny_snake/obj/Debug/net6.0/refint/horny_snake.dll
+/Users/pipiskop/Projects/horny_snake/horny_snake/obj/Debug/net6.0/horny_snake.pdb
+/Users/pipiskop/Projects/horny_snake/horny_snake/obj/Debug/net6.0/horny_snake.genruntimeconfig.cache
+/Users/pipiskop/Projects/horny_snake/horny_snake/obj/Debug/net6.0/ref/horny_snake.dll
